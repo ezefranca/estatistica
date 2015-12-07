@@ -1,0 +1,5 @@
+Comandos Planilha Google
+ESTATÍSTICA DESCRITIVA
+=GoogleFinance("ibov", "price", DATE(2014,1,1), DATE(2014, 5, 30))
+=GoogleFinance("flry3.sa", "close", DATE(2014,1,1), DATE(2014, 5, 30))
+=GoogleFinance("Alll3.sa", "close", DATE(2014,1,1), DATE(2014, 5, 30))
